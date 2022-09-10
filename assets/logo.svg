@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="204" height="219" viewBox="0 0 204 219">
+  <g id="Group_624" data-name="Group 624" transform="translate(-86 -278)">
+    <g id="FX-Logo-light">
+      <g id="Rectangle_300" data-name="Rectangle 300" transform="translate(124 278)" fill="#fcfcfc" stroke="#ddd" stroke-width="2">
+        <rect width="128" height="128" rx="64" stroke="none"/>
+        <rect x="1" y="1" width="126" height="126" rx="63" fill="none"/>
+      </g>
+      <g id="Component_43_2" data-name="Component 43 – 2" transform="translate(128.963 329.678)">
+        <path id="Path_2908" data-name="Path 2908" d="M128.963,358.264c18.73-22.2,18.206-21.156,18.206-21.156h5.755l7.848-3.871,8.475-.523,6.173-3.034,7.063,3.558,7.848,21.162,9,12.661,5.232-4.813,7.848-3.348,5.441,1.36,6.069-3.034,7.874-14.309,7.848,1.674,8.475,6.8" transform="translate(-128.963 -329.678)" fill="none" stroke="#4668f0" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Component_42_2" data-name="Component 42 – 2" transform="translate(132.403 358.264)">
+        <path id="Path_2907" data-name="Path 2907" d="M132.4,366.221c6.189-3.537,6.013-2.3,6.013-2.3l7.25,7.427,4.067-5.128,6.543-2.3,4.244,4.774,7.957-4.774,5.128-1.238,4.067-4.421h6.72l6.366,5.659,12.909,4.774,4.6-2.476,8.665-5.128,6.72,1.592,6.189-3.006,5.659,5.482,7.095,2.632" transform="translate(-132.403 -358.264)" fill="none" stroke="#f0c446" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Numbers" transform="translate(130 313)">
+        <text id="_78.64" data-name="78.64" transform="translate(31 70)" fill="#646464" font-size="8" font-family="Verdana" opacity="0.6"><tspan x="-11.627" y="0">78.64</tspan></text>
+        <text id="_77.45" data-name="77.45" transform="translate(63 70)" fill="#646464" font-size="8" font-family="Verdana" opacity="0.6"><tspan x="-11.627" y="0">77.45</tspan></text>
+        <text id="_34.89" data-name="34.89" transform="translate(95 70)" fill="#646464" font-size="8" font-family="Verdana" opacity="0.6"><tspan x="-11.627" y="0">34.89</tspan></text>
+        <text id="_6.44" data-name="6.44" transform="translate(9 8)" fill="#646464" font-size="8" font-family="Verdana" opacity="0.6"><tspan x="-9.084" y="0">6.44</tspan></text>
+        <text id="_22.75" data-name="22.75" transform="translate(39 8)" fill="#646464" font-size="8" font-family="Verdana" opacity="0.6"><tspan x="-11.627" y="0">22.75</tspan></text>
+        <text id="_33.20" data-name="33.20" transform="translate(71 8)" fill="#646464" font-size="8" font-family="Verdana" opacity="0.6"><tspan x="-11.627" y="0">33.20</tspan></text>
+        <text id="_48.54" data-name="48.54" transform="translate(103 8)" fill="#646464" font-size="8" font-family="Verdana" opacity="0.6"><tspan x="-11.627" y="0">48.54</tspan></text>
+        <path id="Polygon_1" data-name="Polygon 1" d="M2,0,4,3H0Z" transform="translate(26 7) rotate(180)" fill="#c7cee9" opacity="0.98"/>
+        <path id="Polygon_5" data-name="Polygon 5" d="M2,0,4,3H0Z" transform="translate(59 7) rotate(180)" fill="#c7cee9" opacity="0.98"/>
+        <path id="Polygon_6" data-name="Polygon 6" d="M2,0,4,3H0Z" transform="translate(51 68) rotate(180)" fill="#c7cee9" opacity="0.98"/>
+        <path id="Polygon_3" data-name="Polygon 3" d="M2,0,4,3H0Z" transform="translate(83 68) rotate(180)" fill="#c7cee9" opacity="0.98"/>
+        <path id="Polygon_2" data-name="Polygon 2" d="M2,0,4,3H0Z" transform="translate(14 65)" fill="#c7cee9" opacity="0.98"/>
+        <path id="Polygon_4" data-name="Polygon 4" d="M2,0,4,3H0Z" transform="translate(86 4)" fill="#c7cee9" opacity="0.98"/>
+      </g>
+      <g id="Grid" transform="translate(125 280.5)">
+        <g id="Group_618" data-name="Group 618" transform="translate(-1 -2.5)">
+          <line id="Line_109" data-name="Line 109" y2="74" transform="translate(14.5 27.5)" fill="none" stroke="#c3c3c3" stroke-width="1" opacity="0.25"/>
+          <line id="Line_110" data-name="Line 110" y2="103" transform="translate(30.5 12.5)" fill="none" stroke="#c3c3c3" stroke-width="1" opacity="0.25"/>
+          <line id="Line_111" data-name="Line 111" y2="117" transform="translate(46.5 5.5)" fill="none" stroke="#c3c3c3" stroke-width="1" opacity="0.25"/>
+          <line id="Line_112" data-name="Line 112" y2="123" transform="translate(62.5 2.5)" fill="none" stroke="#c3c3c3" stroke-width="1" opacity="0.25"/>
+          <line id="Line_113" data-name="Line 113" y2="119" transform="translate(78.5 4.5)" fill="none" stroke="#c3c3c3" stroke-width="1" opacity="0.25"/>
+          <line id="Line_114" data-name="Line 114" y2="107" transform="translate(94.5 10.5)" fill="none" stroke="#c3c3c3" stroke-width="1" opacity="0.25"/>
+          <line id="Line_115" data-name="Line 115" y2="80" transform="translate(110.5 23.5)" fill="none" stroke="#c3c3c3" stroke-width="1" opacity="0.25"/>
+        </g>
+        <g id="Group_619" data-name="Group 619" transform="translate(123 13.5) rotate(90)">
+          <line id="Line_109-2" data-name="Line 109" y1="74" transform="translate(96 24)" fill="none" stroke="#c3c3c3" stroke-width="1" opacity="0.3"/>
+          <line id="Line_110-2" data-name="Line 110" y1="103" transform="translate(80 10)" fill="none" stroke="#c3c3c3" stroke-width="1" opacity="0.3"/>
+          <line id="Line_111-2" data-name="Line 111" y1="117" transform="translate(64 3)" fill="none" stroke="#c3c3c3" stroke-width="1" opacity="0.3"/>
+          <line id="Line_112-2" data-name="Line 112" y1="123" transform="translate(48)" fill="none" stroke="#c3c3c3" stroke-width="1" opacity="0.3"/>
+          <line id="Line_113-2" data-name="Line 113" y1="119" transform="translate(32 2)" fill="none" stroke="#c3c3c3" stroke-width="1" opacity="0.3"/>
+          <line id="Line_114-2" data-name="Line 114" y1="107" transform="translate(16 8)" fill="none" stroke="#c3c3c3" stroke-width="1" opacity="0.3"/>
+          <line id="Line_115-2" data-name="Line 115" y1="80" transform="translate(0 22)" fill="none" stroke="#c3c3c3" stroke-width="1" opacity="0.3"/>
+        </g>
+      </g>
+    </g>
+    <text id="NAWAFX" transform="translate(188 470)" fill="#4668f0" font-size="48" font-family="Dubai-Medium, Dubai" font-weight="500" letter-spacing="0.048em"><tspan x="-101.664" y="0">NAWAFX</tspan></text>
+  </g>
+</svg>
